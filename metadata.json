@@ -1,0 +1,6 @@
+{
+  "name": "CBT SMAN 1 Majalaya",
+  "description": "Sistem Computer Based Test (CBT) SMAN 1 Majalaya untuk ujian berbasis komputer SMA lengkap dengan portal Admin dan Siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
